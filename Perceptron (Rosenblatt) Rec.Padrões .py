@@ -14,11 +14,12 @@ while erro==1:
     ciclos+=1
     for i in range(0,2):
         for j in range(0,len(X[0])):
-            soma+=X[i][j]*w[i]+b
-            if soma>=teta:
-                y[i]=1
-            else:
-                y[i]=-1     
+            soma+=X[i][j]*w[i]
+    soma+=b
+    if soma>=teta:
+        y[i]=1
+    else:
+        y[i]=-1     
 
     if y==t:
         print("reconheceu o padrão")
