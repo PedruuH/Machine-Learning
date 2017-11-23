@@ -1,7 +1,3 @@
-cd ~
-cd Desktop/
-./print.sh
-cd ~
-cd Desktop/
-snes9x -loadsnapshot ~/Desktop/Super\ Mario\ World\ \(U\).000 ~/Desktop/Super\ Mario\ World\ \(U\).smc 
+snes9x -loadsnapshot ~/Desktop/Machine-Learning/Projeto\ Final/Super\ Mario\ World\ \(U\).000 ~/Desktop/Machine-Learning/Projeto\ Final/Super\ Mario\ World\ \(U\).smc 
+
 
