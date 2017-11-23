@@ -1,3 +1,3 @@
-snes9x -loadsnapshot ~/Desktop/Machine-Learning/Projeto\ Final/Super\ Mario\ World\ \(U\).000 ~/Desktop/Machine-Learning/Projeto\ Final/Super\ Mario\ World\ \(U\).smc 
+snes9x -loadsnapshot ~/Desktop/MachineLearning/ProjetoFinal/Super\ Mario\ World\ \(U\).000 ~/Desktop/MachineLearning/ProjetoFinal/Super\ Mario\ World\ \(U\).smc && cd ~ && cd Desktop/l && pytnon2 a.py
 
 

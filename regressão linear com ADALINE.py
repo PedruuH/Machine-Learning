@@ -1,6 +1,6 @@
 from random import uniform
-import numpy as np
-import matplotlib.pyplot as plt
+
+
 
 t=[82.0,91.0,100.0,68.0,87.0,73.0,78.0,80.0,65.0,84.0,116.0,76.0,97.0,100.0,105.0,77.0,73.0,78.0]
 
